@@ -6,7 +6,6 @@
 //           return state;
 //       }
 // };
-
 import * as ActionTypes from './ActionTypes';
 
 export const Dishes = (state = { isLoading: true,
